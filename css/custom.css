@@ -29,3 +29,7 @@
 .img-fluid--100 {
     width: 100%;
 }
+
+.testimony-section .owl-carousel .owl-dots .owl-dot.active span {
+    background: magenta;
+}
