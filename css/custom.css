@@ -1,0 +1,31 @@
+.page__header .header__logo {
+    display: block;
+    width: 60px;
+    height: 60px;
+    margin: auto;
+    background-image: url(../images/logo_mr.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+.page__header .header__logo:hover {
+    cursor: pointer;
+    width: 70px;
+    height: 70px;
+}
+
+.tab-pane__img {
+    display: block;
+    margin-bottom: 20px;
+}
+
+.tab-pane__img,
+.tab-pane__img img {
+    width: 100%;
+    max-width: 100%;
+}
+
+.img-fluid--100 {
+    width: 100%;
+}
